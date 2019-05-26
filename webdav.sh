@@ -41,6 +41,8 @@ echo "https://shortid.co/t7rGx"
 echo
 echo "silahkan copy link diatas"
 echo "Jika Sudah Klik nomor 2 Untuk Lanjut" | lolcat
+echo "JIKA LINK RUSAK KALIAN COMENTS DICHANEL SAYA"
+echo "CHANEL SAYA : Bigbos Starla"
 sleep 10
 cd webdav
 sh webdav.sh
